@@ -1,7 +1,7 @@
-#**My Awesome Landing Page**
+#My Awesome Landing Page
 Welcome to my awesome landing page project! This landing page is designed to be responsive, featuring stunning animations to provide visitors with an engaging user experience.
 
-Introduction
+#Introduction
 This project is a responsive and animated landing page that aims to showcase a product or service in an eye-catching and interactive manner. Whether you're promoting a startup, an app, or an event, this landing page will capture your visitors' attention and leave a lasting impression.
 
 Features
