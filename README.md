@@ -1,19 +1,20 @@
-# Responsive Animated Landing Page
-
-![Landing Page Preview](landing-page-preview.gif)
-
-## Description
+#  Responsive Animated Landing Page
 
 This project is a responsive and animated landing page built using HTML and CSS. It showcases a modern design with smooth animations to enhance user experience. The landing page is suitable for various types of products or services.
 
 ## Live Demo
 
-Check out the live demo of the landing page [here](https://www.example.com).
+Check out the live demo of the landing page [here](https://vaibhav0006.github.io/LANDING_PAGE/).
 
 ## Screenshots
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203317.png">
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203350.png">
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203407.png">
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203420.png">
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203457.png">
+<img src="https://github.com/vaibhav0006/LANDING_PAGE/blob/main/assets/Screenshot%202023-07-30%20203516.png">
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+
 
 ## Features
 
@@ -29,5 +30,5 @@ To run this landing page locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/landing-page.git
+git clone https://github.com/VAIBHAV0006/LANDING_PAGE.git
 
