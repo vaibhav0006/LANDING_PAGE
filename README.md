@@ -1,4 +1,4 @@
-My Awesome Landing Page
+#**My Awesome Landing Page**
 Welcome to my awesome landing page project! This landing page is designed to be responsive, featuring stunning animations to provide visitors with an engaging user experience.
 
 Introduction
